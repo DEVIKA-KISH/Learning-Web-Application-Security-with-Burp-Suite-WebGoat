@@ -1,6 +1,6 @@
-## 🧠 Final README.md — Learning-Web-Application-Security with Burp Suite & WebGoat
 
-# 🧠 Learning Web Application Security with Burp Suite & WebGoat
+
+# Learning Web Application Security with Burp Suite & WebGoat
 
 ### 🎯 Objective
 This project demonstrates **web-application penetration testing** using **OWASP WebGoat** and **Burp Suite**.  
