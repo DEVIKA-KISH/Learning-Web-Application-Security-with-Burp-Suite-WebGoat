@@ -1,3 +1,7 @@
+![Platform](https://img.shields.io/badge/Platform-KaliLinux-blue)
+![Tool](https://img.shields.io/badge/Tool-BurpSuite-orange)
+![Focus](https://img.shields.io/badge/Focus-Web_Application_Security-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
 # Learning Web Application Security with Burp Suite & WebGoat
